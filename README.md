@@ -38,6 +38,9 @@ When the application is ran a prompt will appear asking for password length foll
 
 ![Random generated password](https://github.com/njderenne/password-generator/blob/master/Develop/images/screenshot-4.PNG?raw=true)
 
+## Link to Deployed Application
+
+https://njderenne.github.io/password-generator/
 
 ## The team
 

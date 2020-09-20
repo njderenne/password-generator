@@ -10,7 +10,7 @@ When the application is ran a prompt will appear asking for password length foll
 
 ## Images
 
-https://github.com/njderenne/password-generator/blob/master/Develop/images/screenshot-1.PNG?raw=true
+![alt text](https://github.com/njderenne/password-generator/blob/master/Develop/images/screenshot-1.PNG?raw=true)
 
 https://github.com/njderenne/password-generator/blob/master/Develop/images/screenshot-2.PNG?raw=true
 

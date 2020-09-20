@@ -20,14 +20,21 @@ When the application is ran a prompt will appear asking for password length foll
 ### Prompt Asking for Password Length
 
 </br>
+</br>
 
 ![Prompt asking for password length](https://github.com/njderenne/password-generator/blob/master/Develop/images/screenshot-2.PNG?raw=true)
 
 ### Prompt Asking for Password Character Types
 
+</br>
+</br>
+
 ![Prompt asking for password character types](https://github.com/njderenne/password-generator/blob/master/Develop/images/screenshot-3.PNG?raw=true)
 
 ### Random Generated Password
+
+</br>
+</bro>
 
 ![Random generated password](https://github.com/njderenne/password-generator/blob/master/Develop/images/screenshot-4.PNG?raw=true)
 

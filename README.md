@@ -10,13 +10,21 @@ When the application is ran a prompt will appear asking for password length foll
 
 ## Images
 
+### Password Generator Homepage
+
 ![Password Generator homepage](https://github.com/njderenne/password-generator/blob/master/Develop/images/screenshot-1.PNG?raw=true)
 
-![alt text](https://github.com/njderenne/password-generator/blob/master/Develop/images/screenshot-2.PNG?raw=true)
+### Prompt Asking for Password Length
 
-![alt text](https://github.com/njderenne/password-generator/blob/master/Develop/images/screenshot-3.PNG?raw=true)
+![Prompt asking for password length](https://github.com/njderenne/password-generator/blob/master/Develop/images/screenshot-2.PNG?raw=true)
 
-![alt text](https://github.com/njderenne/password-generator/blob/master/Develop/images/screenshot-4.PNG?raw=true)
+### Prompt Asking for Password Character Types
+
+![Prompt asking for password character types](https://github.com/njderenne/password-generator/blob/master/Develop/images/screenshot-3.PNG?raw=true)
+
+### Random Generated Password
+
+![Random generated password](https://github.com/njderenne/password-generator/blob/master/Develop/images/screenshot-4.PNG?raw=true)
 
 
 ## The team

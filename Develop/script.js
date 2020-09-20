@@ -1,5 +1,19 @@
 // Assignment code here
 var value = "";
+
+var generatePassword = function(){
+  newPassword = "" 
+  var passwordLength = window.prompt("How many characters would you like your password to be? (Enter a number of at least 8.")
+  while (passwordLength < 8 || passwordLength > 128){
+    passwordLength = window.prompt("Please choose a number between 8 and 128")
+  }
+  letterChoice();
+  for (i = 0; i < parseInt(passwordLength); i++){
+    newPassword = newPassword + value.charAt(getRandom((value.length-1)))
+  }
+  return "Your new SECURE password is: " + newPassword
+};
+
 var letterChoice = function() {
   value = "";
   var lowerCase = window.confirm("Do you want to include lower case letters?");
@@ -27,14 +41,11 @@ var letterChoice = function() {
   return value
 }
 
-var generatePassword = function(){ 
-  var passwordLength = window.prompt("How many characters would you like your password to be? (Enter a number of at least 8.")
-  while (passwordLength < 8 || passwordLength > 128){
-    passwordLength = window.prompt("Please choose a number between 8 and 128")
-  }
-  letterChoice();
-  return "Your password will be " + passwordLength + " characters long with value options of " + value + "."
-};
+function getRandom(max) {
+  return Math.round(Math.random() * max);
+}
+
+
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
@@ -49,7 +60,11 @@ function writePassword() {
 }
 
 var passwordInfo = {
-  
+  //going to make an object to keep the code clean
+
+
+
+  //dont forget to do this!!!
 }
 
 // Add event listener to generate button

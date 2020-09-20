@@ -12,6 +12,8 @@ When the application is ran a prompt will appear asking for password length foll
 
 https://github.com/njderenne/password-generator/blob/master/Develop/images/screenshot-1.PNG
 
+https://github.com/njderenne/password-generator/blob/master/Develop/images/screenshot-1.PNG?raw=true
+
 ./Develop/images/screenshot-1.png
 
 ./Develop/images/screenshot-2.png
